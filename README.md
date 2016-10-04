@@ -7,9 +7,7 @@ An console application that beeps after a specified amount of time.
 
 ### Prerequisities
 
-You need to have Python installed in your machine, preferably Python 3.0 or the preceeding versions.
-
-If you do not have it, it's downloadable here — [**Visual Studio 2015**] (https://www.visualstudio.com/post-download-vs/?sku=community&clcid=0x409&downloadrename=true) 
+You need to have Python installed in your machine, preferably Python 3.0 or the preceeding versions. 
 
 ### Installing
 
