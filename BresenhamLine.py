@@ -64,7 +64,7 @@ x2=int(input("x: "))
 y2=int(input("y: "))
 print ("\n")
 l = bresenham([x1,y1],[x2,y2])
-print ("\nResult: ")
+print ("\nPoints to be plotted: ")
 print (l.path)
 
 
