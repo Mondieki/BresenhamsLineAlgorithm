@@ -1,5 +1,5 @@
 # Bresenham's Line Drawing Algorithm
-An console application that beeps after a specified amount of time. 
+An console application that calculates and shows you the points to be plotted when rendering a line using Bresenham's Line algorithm. 
 
 ## Getting Started
 
