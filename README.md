@@ -3,7 +3,7 @@ An console application that calculates and shows you the points to be plotted wh
 
 ## Getting Started
 
-[Clone] (https://github.com/mikearchie254/BresenhamsLineAlgorithm.git) the project from my repo. 
+[Clone](https://github.com/mikearchie254/BresenhamsLineAlgorithm.git) the project from my repo. 
 
 ### Prerequisities
 
@@ -37,7 +37,7 @@ Alternatively, you can run BresenhamsLine.py via Command Prompt/ Terminal
 
 ## Authors
 
-* [**Mike Ondieki**] (https://github.com/mikearchie254/)
+* [**Mike Ondieki**](https://github.com/Mondieki/)
 
 
 ## License
@@ -45,5 +45,5 @@ Alternatively, you can run BresenhamsLine.py via Command Prompt/ Terminal
 
 ## Acknowledgments
 
-* [Mue Jacob] (https://github.com/JacobMue)
+* [Mue Jacob](https://github.com/JacobMue)
 
